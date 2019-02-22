@@ -2,3 +2,5 @@
 "dog"
 "fish"
 "rat"
+"elephant"
+"horse"
