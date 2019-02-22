@@ -1,5 +1,7 @@
 "apple"
 "grape"
+"strawberry"
 "orange"
 "rasberry"
+"gogi"
 "cherry"
