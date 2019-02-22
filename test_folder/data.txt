@@ -5,3 +5,5 @@
 "animal"
 "pig"
 "rabbit"
+"snake"
+"lion"
