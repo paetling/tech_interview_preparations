@@ -1,0 +1,7 @@
+"cat"
+"dog"
+"fish"
+"mammal"
+"animal"
+"pig"
+"rabbit"
