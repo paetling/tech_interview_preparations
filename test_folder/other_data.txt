@@ -1,4 +1,6 @@
 "apple"
 "pear"
+"blueberry"
 "peach"
+"grape"
 "watermellon"
