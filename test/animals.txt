@@ -1,6 +1,8 @@
-"cat"
-"dog"
-"fish"
-"rat"
-"elephant"
-"horse"
+'cat'
+'dog'
+'fish'
+'octopus'
+'rat'
+'elephant'
+'whale'
+'horse'
